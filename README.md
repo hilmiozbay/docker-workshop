@@ -1,5 +1,6 @@
-# Getting started
+# Docker Workshop Uygulaması 
 
-This repository is a sample application for users following the getting started guide at https://docs.docker.com/get-started/.
+Bu depo, https://docs.docker.com/get-started/ adresindeki başlarken kılavuzunu takip eden kullanıcılar için örnek bir uygulamadır.
 
-The application is based on the application from the getting started tutorial at https://github.com/docker/getting-started
+Uygulama, https://github.com/docker/getting-started adresindeki başlarken eğitimindeki uygulamaya dayanmaktadır.
+
